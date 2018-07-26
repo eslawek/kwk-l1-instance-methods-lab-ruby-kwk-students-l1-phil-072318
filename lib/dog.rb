@@ -15,4 +15,4 @@ class Dog
   end #sit
 end #class dog
 
-puts Dogs.bark
+ Dog.bark
