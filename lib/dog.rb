@@ -12,7 +12,7 @@ class Dog
   end #bark
   
   def sit
-    puts "The Dog is sitting"
+    puts "The Dog is sitting" 
   end #sit
 end #class dog
 
