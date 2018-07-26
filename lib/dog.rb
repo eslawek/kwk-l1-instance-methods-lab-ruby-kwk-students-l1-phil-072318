@@ -17,4 +17,4 @@ end #class dog
 
 Henry = Dog.new("Henry", 5, "Collie", "scared")
 
- Henry.bark
+puts Henry.bark
