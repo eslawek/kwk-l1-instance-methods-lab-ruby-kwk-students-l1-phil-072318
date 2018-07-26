@@ -17,6 +17,9 @@ class Dog
 end #class dog
 
 Henry = Dog.new("Henry", 5)
+susan = Dog.new(1,2)
 
 Henry.bark
 Henry.sit
+
+susan.bark
