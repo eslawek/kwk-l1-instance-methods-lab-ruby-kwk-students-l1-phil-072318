@@ -15,3 +15,6 @@ class Dog
   end #sit
 end #class dog
 
+Henry = Dogs.new("Henry", 5, "Collie", "scared")
+
+Henry.Dog
