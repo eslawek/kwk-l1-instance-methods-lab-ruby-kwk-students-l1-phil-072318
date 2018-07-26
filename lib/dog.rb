@@ -6,7 +6,7 @@ class Dog
     @sit = sit
   end #def initialize name
   
-  def sit
+  def bark
      puts "Woof!"
      puts @bark
   end #bark
