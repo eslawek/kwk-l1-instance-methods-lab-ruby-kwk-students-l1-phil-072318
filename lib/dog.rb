@@ -8,6 +8,7 @@ class Dog
   
   def bark
      puts "Woof!"
+     puts @bark
   end #bark
   
   def sit
