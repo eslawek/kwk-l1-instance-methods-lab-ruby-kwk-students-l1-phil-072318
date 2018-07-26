@@ -15,4 +15,3 @@ class Dog
   end #sit
 end #class dog
 
- puts Dog.bark
