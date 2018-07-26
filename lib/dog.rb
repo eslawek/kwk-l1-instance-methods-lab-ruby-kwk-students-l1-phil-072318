@@ -10,9 +10,9 @@ class Dog
      puts "Woof!"
   end #bark
   
-  # def sit
-  #   puts "The Dog is sitting"
-  # end #sit
+  def sit
+    puts "The Dog is sitting"
+  end #sit
 end #class dog
 
 Henry = Dog.new("Henry", 5)
