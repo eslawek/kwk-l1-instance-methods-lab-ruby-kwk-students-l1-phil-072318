@@ -6,7 +6,7 @@ class Dog
     @sit = sit
   end #def initialize name
   
-  def bark
+  def pb
      puts "Woof!"
      puts @bark
   end #bark
@@ -17,9 +17,9 @@ class Dog
 end #class dog
 
 Henry = Dog.new("Henry", 5)
-susan = Dog.new(1,2)
+
 
 Henry.bark
 Henry.sit
 
-susan.bark
+
