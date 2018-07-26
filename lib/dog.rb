@@ -15,6 +15,6 @@ class Dog
   end #sit
 end #class dog
 
-Henry = Dog.new
+Henry = Dog.new("Henry", 5, "Collie", "scared")
 
 puts Henry.bark
