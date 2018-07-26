@@ -8,4 +8,4 @@ class Dog
   end #def initialize name
 end #class dog
 
-@bark
+ puts @bark
