@@ -1,7 +1,7 @@
 # dog.rb
 class Dog 
 
-  def initialize(bark, sit)
+  def initialize(bark,sit)
     @bark = bark
     @sit = sit
   end #def initialize name
