@@ -15,4 +15,4 @@ class Dog
   end #sit
 end #class dog
 
-@bark
+puts bark
