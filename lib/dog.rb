@@ -7,7 +7,7 @@ class Dog
   end #def initialize name
   
   def bark
-    @bark 
+    @bark puts "Woof!"
   end #bark
 end #class dog
 
