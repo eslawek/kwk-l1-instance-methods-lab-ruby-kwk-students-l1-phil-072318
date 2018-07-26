@@ -18,3 +18,4 @@ end #class dog
 Henry = Dog.new("Henry", 5)
 
 Henry.bark
+Henry.sit
